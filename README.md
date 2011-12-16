@@ -49,9 +49,9 @@ By default, at least your wordpress language is used.
 
 When you have filled the fields, they are used in the head html code:
 
-* The title is used in <title> tag
-* The meta description is used in <meta name="description" /> tag
-* The meta keywords are used in <meta name="keywords" /> tag
+* The title is used in &lt;title&gt; tag
+* The meta description is used in &lt;meta name="description" /&gt; tag
+* The meta keywords are used in &lt;meta name="keywords" /&gt; tag
 
 Keywords must be comma seperated in order to let indexing bot know where
 a keyword starts and where it ends.
