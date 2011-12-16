@@ -5,7 +5,7 @@ What is this seo plugin ?
 ========================
 
 This plugin allow you to add post meta data on wordpress post to optimize your
-wordpress webiste seo :
+wordpress website seo :
 You can manage the title, meta description and meta keywords by post !
 
 Indeed it is sometimes important to differentiate the content visible to visitors
