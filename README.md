@@ -11,7 +11,8 @@ You can manage the title, meta description and meta keywords by post !
 Indeed it is sometimes important to differentiate the content visible to visitors
 of content considered by indexing bots in order to highlight certain keywords.
 
-You can also use qTranslate plugin in order to have specific title / metakeywords/
+You can also use [qTranslate plugin](http://wordpress.org/extend/plugins/qtranslate/)
+in order to have specific title / metakeywords/
 metadescription by language for each post.
 
 Installation requirements
