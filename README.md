@@ -45,12 +45,12 @@ Using *Add post seo meta plugin*
 After activating the plugin you have now a new administration part in your posts: 
 A "SEO Meta" block containing the fields title, meta description and meta keywords.
 
-![Meta fields without qTranslate](images/snapshot.png "Meta fields without qTranslate ")
+![Meta fields without qTranslate](https://github.com/IDCI-Consulting/wp_add_post_seo_meta/raw/master/images/snapshot.png "Meta fields without qTranslate ")
 
 You have as much input fields as enabled languages in qTranslate.
 By default, at least your wordpress language is used.
 
-![Meta fields with qTranslate](images/snapshot2.png "Meta fields with qTranslate")
+![Meta fields with qTranslate](https://github.com/IDCI-Consulting/wp_add_post_seo_meta/raw/master/images/snapshot2.png "Meta fields with qTranslate")
 
 When you have filled the fields, they are used in the head html code:
 
