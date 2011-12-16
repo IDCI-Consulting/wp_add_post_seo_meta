@@ -1,0 +1,7 @@
+== Installation ==
+
+1. Extract the compressed (zip) package in the `/wp-content/plugins/` directory.
+2. Activate the plugin through the 'Plugins' menu in WordPress
+
+As it has been mentioned, no configuration is required for running the plugin.
+
