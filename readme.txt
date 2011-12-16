@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Add post seo meta ===
 Contributors: Webokage
 Tags: seo, meta
 Requires at least: 2.0.2
